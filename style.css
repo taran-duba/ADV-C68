@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+}
+
+marquee {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: gray;
+    color: purple;
+}
+
+#contac {
+    text-align: center;
+}
+
+.news {
+    width: 700;
+    height: 500;
+}
+
+div {
+    text-align: center;
+}
